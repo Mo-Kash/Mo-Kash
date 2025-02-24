@@ -7,8 +7,6 @@
 ###
 
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/mohitkashyap_28/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -22,7 +20,6 @@
 ###
 
 
-###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mo-Kash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mo-Kash&theme=dark&hide_border=false)<br/>
