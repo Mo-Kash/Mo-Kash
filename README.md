@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💬 Ask me about Html, CSS, Javascript, ReactJs<br><br>📫 Contact me at   7mohit10@gmail.com</p>
+<p align="center">📫 Contact me at  <a href="mailto:7mohit10@gmail.com" target="_blank">7mohit10@gmail.com</a></p>
 
 ###
 
